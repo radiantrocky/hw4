@@ -1,0 +1,9 @@
+Insert(fun)
+Mirror
+Insert(mirrors)
+Insert(are)
+PrintLevel(1)
+PrintLevel(0)
+Mirror
+Insert(kinda)
+PrintLevel(2)

@@ -1,0 +1,9 @@
+Insert(21)
+Insert(96)
+PrintLevel(1)
+Insert(14)
+Mirror
+PrintLevel(1)
+Mirror
+PrintLR
+PrintLevel(2)

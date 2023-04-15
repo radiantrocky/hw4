@@ -1,0 +1,4 @@
+a c z
+z x c a
+a c g x z
+

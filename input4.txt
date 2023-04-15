@@ -1,0 +1,10 @@
+Insert(a)
+Insert(z)
+Insert(c)
+PrintLR
+Mirror
+Insert(x)
+PrintLR
+Mirror
+Insert(g)
+PrintLR
